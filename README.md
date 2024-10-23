@@ -23,3 +23,6 @@ curl http://localhost:8080/albums \
     '{"id": "4","title": "The Modern Sound of Betty Carter","artist": "Betty Carter","price": 49.99}'
 ```
 to use POST method
+
+--- PREVIEW OF THE RESPONSES ---
+![image](https://github.com/user-attachments/assets/601822bb-44f8-4312-80d2-53cb153c603f)
