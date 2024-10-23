@@ -2,7 +2,7 @@
 - Small API made following the next tutorial on go.dev https://go.dev/doc/tutorial/web-service-gin
 
 to use it, clone the repo and made the changes of your PATH
-use the command:
+- to run the use the command:
 ```GO
 go run .
 ```
