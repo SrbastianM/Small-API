@@ -24,5 +24,6 @@ curl http://localhost:8080/albums \
 ```
 to use POST method
 
---- PREVIEW OF THE RESPONSES ---
+--- 
+# PREVIEW OF THE RESPONSES
 ![image](https://github.com/user-attachments/assets/601822bb-44f8-4312-80d2-53cb153c603f)
