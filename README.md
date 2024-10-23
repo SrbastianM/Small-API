@@ -22,3 +22,6 @@ curl http://localhost:8080/albums \
 --- 
 # PREVIEW OF THE RESPONSES
 ![image](https://github.com/user-attachments/assets/601822bb-44f8-4312-80d2-53cb153c603f)
+
+## Important
+if you dont have gin after after clone the repo use you uncondicional habilities to resolve the problem because I dont know how to fix that XD
