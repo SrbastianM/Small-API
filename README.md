@@ -6,15 +6,11 @@ to use it, clone the repo and made the changes of your PATH
 ```GO
 go run .
 ```
-to run the application and consume use PostMan or the follow comand:
+- To consume use PostMan or the follow comand after running the API:
 ```GO
 curl http://localhost:8080/albums
 ```
-
----
-You can use GET and POST method!!!
-Before I mention the comand to consume the API that funtion to use GET method 
-And this one:
+- and this one to use POST method:
 ```GO
 curl http://localhost:8080/albums \
     --include --header \
@@ -22,7 +18,6 @@ curl http://localhost:8080/albums \
     --request "POST" --data \
     '{"id": "4","title": "The Modern Sound of Betty Carter","artist": "Betty Carter","price": 49.99}'
 ```
-to use POST method
 
 --- 
 # PREVIEW OF THE RESPONSES
